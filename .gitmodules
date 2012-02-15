@@ -10,3 +10,6 @@
 [submodule "modules/orm"]
 	path = modules/orm
 	url = git://github.com/kohana/orm.git
+[submodule "modules/mbase"]
+	path = modules/mbase
+	url = git://github.com/kusmayadi/mbase.git
